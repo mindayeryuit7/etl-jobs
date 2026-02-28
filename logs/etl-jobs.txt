@@ -1,3 +1,4 @@
 13:09:07 | duration=705695
 13:09:09 | event_name=2868
 13:09:14 | fingerprint2=4aaeef6ba7861fb4f345308e0e1096cf15fb3cfff01119b991bc56837e089c11
+13:13:24 | duration=501620
