@@ -8,3 +8,4 @@
 13:29:09 | event_name=4017
 13:29:12 | fingerprint2=5e8211350bc5e3af26e7a036f80a29a4b43c2f3e07fdb9ac4df1251e71bc8203
 14:29:07 | duration=437745
+14:29:11 | event_name=3241
