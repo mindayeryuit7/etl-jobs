@@ -25,3 +25,4 @@
 19:29:07 | duration=527229
 19:29:11 | event_name=1297
 19:29:14 | fingerprint2=0af1c498aaaf8fb63ee0cc3a181c1430af415be0d70b7416e0e40416fa19b532
+20:29:06 | duration=141331
