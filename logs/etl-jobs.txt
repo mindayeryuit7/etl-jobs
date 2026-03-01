@@ -71,3 +71,4 @@
 10:29:09 | event_name=9841
 10:29:12 | fingerprint2=561cc828c2b2c2564fb00ba4f7ce8141b6ec3c56e74a9b6f11f0d970b73fc45b
 11:29:06 | duration=818036
+11:29:07 | event_name=4372
