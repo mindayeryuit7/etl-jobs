@@ -105,3 +105,4 @@
 21:29:10 | fingerprint2=a2e761d2e230aabe79aef49a5cc4fee8e568395f8c0d158f3af0664aaeb4e864
 22:29:06 | duration=627655
 22:29:09 | event_name=5621
+22:29:10 | fingerprint2=750dc3a61a5a0339a37acdfe7b602611efae171a6ff9b57ffd2708ffe40d9a22
