@@ -40,3 +40,4 @@
 00:29:07 | duration=982403
 00:29:09 | event_name=9068
 00:29:12 | fingerprint2=5e482c4e17950fbe2c0ccc7b2e2842e9f60b3481d5e9bfe8011c279b6ea3bbbd
+01:29:07 | duration=797669
