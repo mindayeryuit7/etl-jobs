@@ -164,3 +164,4 @@
 17:29:20 | event_name=2587
 17:29:22 | fingerprint2=7b0dfa28d43dcd387f9e2e1f8312d630060b30ca8ded92d0a8563823954f88ba
 18:29:08 | duration=950898
+18:29:10 | event_name=7928
